@@ -83,7 +83,7 @@ Business Intelligence Design Principles
 
 ---
 
-Live Dashboard Demo ▶ [paste link]
+Live Dashboard Demo ▶ [https://github.com/Ovisha466/AdventureWorks-Power-BI-Dashboard/blob/main/Dashboard_demo.mp4]
 
 ## Project Author
 [Ovisha Sanyal]
