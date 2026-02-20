@@ -83,6 +83,8 @@ Business Intelligence Design Principles
 
 ---
 
+Live Dashboard Demo ▶ [paste link]
+
 ## Project Author
 [Ovisha Sanyal]
 
