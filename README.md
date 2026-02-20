@@ -1,7 +1,9 @@
 # 📊 AdventureWorks Business Intelligence Dashboard
 
 ## 📸 Dashboard Preview
-![Dashboard Screenshot]()
+![Executive Dashboard](https://github.com/Ovisha466/AdventureWorks-Power-BI-Dashboard/raw/main/Screenshot%202026-02-20%20175742.png)
+![Product Dashboard](https://github.com/Ovisha466/AdventureWorks-Power-BI-Dashboard/raw/main/Screenshot%202026-02-20%20175841.png)
+![Customer Dashboard](https://github.com/Ovisha466/AdventureWorks-Power-BI-Dashboard/raw/main/Screenshot%202026-02-20%20175857.png)
 ---
 
 ## 📌 Project Overview
