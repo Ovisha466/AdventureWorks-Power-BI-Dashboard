@@ -1,5 +1,7 @@
 # 📊 AdventureWorks Business Intelligence Dashboard
 
+## 📸 Dashboard Preview
+![Dashboard Screenshot]()
 ---
 
 ## 📌 Project Overview
